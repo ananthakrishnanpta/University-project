@@ -33,7 +33,7 @@ public class Main {
 	}
 	
 	public static void menu1(Faculty[] F) {
-//		clearScreen();
+		clearScreen();
 		Scanner s = new Scanner(System.in);
 		while(true){
 			System.out.print("Please enter: \n 1. '0' for adding faculty\t:\t");
